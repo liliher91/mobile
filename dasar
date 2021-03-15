@@ -1,0 +1,2 @@
+: subplot(1,2,1); imshow(VariabelCitra);
+   subplot(1,2,2); imshow(VariabelCitra);
